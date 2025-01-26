@@ -8,7 +8,7 @@ Key Features:
 
 • Implements a custom insertion sort to organize data by channel name or descending engagement rate using comparator classes
 
-• GUI features a bar chart displaying engagement rates by channel and buttons allowing users to switch between months and toggle sorting based on various features
+• GUI incorporates a bar chart displaying engagement rates by channel and buttons allowing users to switch between months and toggle sorting based on various features
 
 • Applies object-oriented principles such as encapsulation and interfaces to enable seamless interaction among classes and efficient communication between front-end and back-end.
 
