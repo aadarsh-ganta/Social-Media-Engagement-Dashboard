@@ -4,10 +4,13 @@ This project involves designing, developing, and testing an analytics visualizat
 
 Key Features:
 
-Reads influencer statistics from a CSV file and stores data in a Linked List for sorting and manipulation
+• Reads influencer statistics from a CSV file and stores data in a Linked List for sorting and manipulation
 
-Implements a custom insertion sort to organize data by channel name or descending engagement rate using comparator classes
+• Implements a custom insertion sort to organize data by channel name or descending engagement rate using comparator classes
 
-GUI features a bar chart displaying engagement rates by channel and buttons allowing users to switch between months and toggle sorting based on various features
+• GUI features a bar chart displaying engagement rates by channel and buttons allowing users to switch between months and toggle sorting based on various features
+
+
+
 
 
