@@ -10,7 +10,6 @@ Key Features:
 
 • GUI features a bar chart displaying engagement rates by channel and buttons allowing users to switch between months and toggle sorting based on various features
 
-
-
+• Applies object-oriented principles such as encapsulation and interfaces to enable seamless interaction among classes and efficient communication between front-end and back-end.
 
 
